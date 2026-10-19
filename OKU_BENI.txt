@@ -1,0 +1,22 @@
+AkademikPusula - hem bilgisayarda hem telefonda ayni dosya kullanilir
+=====================================================================
+BILGISAYAR : AkademikPusula.html dosyasina cift tiklayin (Chrome onerilir).
+TELEFON    : Dosyayi telefona gonderin (WhatsApp, Drive, USB ya da e-posta), Indirilenler'den Chrome ile acin.
+
+ILK ACILIS (DAVET KODU ZORUNLU DEGIL):
+  - Kendi sifrenizi belirleyin (en az 6 karakter, iki kez).
+  - Davet kodunuz varsa "Davet kodu" alanina yapistirin -> PREMIUM hemen acilir.
+  - Kodunuz yoksa bos birakin -> 14 GUNLUK DENEME baslar.
+  Sonraki acilislarda yalnizca sifre sorulur.
+
+DENEMEDE KISITLI OLANLAR:
+  - Gelisim sekmesi (detayli gelisim analizi) kilitli.
+  - 14 gun bitince: son 15 gunun kayitlari gorunur, eski kayitlar SILINMEZ.
+  - Premium kodu girilince tum kilitler acilir.
+
+Sifreyi unutursaniz notlar acilamaz. Ayarlar > Yedek al ile duzenli yedek alin.
+Notlar her cihazin tarayicisinda ayri saklanir. Tasimak icin: Ayarlar > Yedek al,
+sonra diger cihazda Yedekten geri yukle.
+
+Davet kodlari: 1_Uygulama\DAVET_KODLARI.txt
+Yeni kod uretmek: 2_Sifre_ve_Kodlar\KOLAY_KOD.bat
